@@ -1,6 +1,6 @@
 <div align="center">
 
-# PRO-THESIS
+# PRO-SYNTHESIS
 
 ### Chaos testing whose FAIL carries its witness, whose PASS has to be earned, and whose test is locked against quiet weakening.
 
